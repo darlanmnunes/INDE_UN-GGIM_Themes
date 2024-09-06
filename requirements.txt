@@ -1,0 +1,11 @@
+matplotlib
+seaborn
+numpy
+pandas
+plotly
+kaleido
+ipywidgets
+tqdm
+requests
+owslib
+unidecode
