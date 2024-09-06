@@ -1,7 +1,9 @@
-# Paper The Brazilian NSDI: A Strategic Framework for Management and Dissemination of Fundamental Geospatial Data Themes of UN-GGIM (codes, data and main results)
+# The Brazilian NSDI: a strategic framework for management and dissemination of Fundamental Geospatial Data Themes of UN-GGIM
 
-**Brief description**:
-    This repository contains the codes (in Jupyter Notebook), data and the main results of the paper entitle *"The Brazilian NSDI: A Strategic Framework for Management and Dissemination of Fundamental Geospatial Data Themes of UN-GGIM"*
+Flowchart illustrating the full process of the proposed open-source framework.
+![open-source framework to systematically gather data from the INDE’s GeoPortal and categorise them according to the fundamental themes](utils/paper_INDE_UNGGIM_flowchart_v2.png)
 
-**Abstract**: 
-    Geospatial data play a crucial role in support countless action, such as public management, territorial planning, decision making processes, and sustainable development goals (SDGs) of 2030 agenda. The Brazilian National SDI (NSDI or in Portuguese, INDE) empower interoperability between geospatial data produced by different stakeholders and provide strategic information. However, despite the several research that underlines the importance and applications of SDI, is notable a scarcity in literature that underlining the worthwhile resource of this infrastructure in the set of fundamental geospatial data themes, endorsed by UN-GGIM. Therefore, this paper aims to explore the current scenario of the Brazilian NSDI in relation to the 14 fundamental geospatial data themes. An open-source approach was developed to gather all data from the INDE’s GeoPortal and categorize them by the fundamental themes. The results shown that most of these themes are covered by freely data accessible to everyone. This claim the Brazilian NSDI meaningful to disseminating geoespacial data to a range of study and its relevance to help obtain the SDGs indicator. Nevertheless, there is still a lack to consider new actors and producers with the potential to provide geospatial data in greater levels of detail, such as academic SDI and Volunteered Geographic Information sources.
+# Jupyter notebooks
+
+These jupyter notebook file, encompasses code blocks for fetch data, preprocessing and analysis, providing a comprehensive running example.
+ * ../notebooks/*Jnotebook_inde_unggim_v3.ipynb*
