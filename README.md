@@ -2,6 +2,8 @@
 
 This repository contains code, data and the main findings of the paper entitle "Are National Spatial Data Infrastructures Adequate for Achieving the 2030 Agenda? A Case Study of Brazil's NSDI from the Perspective of UN-GGIM Fundamental Themes".
 
+* Transactions in GIS, 2025: https://doi.org/10.1111/tgis.70011
+
 
 ## Methodological Flowchart illustrating the full process of the proposed open-source framework.
 
